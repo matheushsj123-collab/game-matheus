@@ -1,0 +1,1 @@
+INT HEALTM = 100;
